@@ -1,0 +1,4 @@
+# Kiki
+NX404H
+PRODUCT_MAKEFILES := \
+$(LOCAL_DIR)/404.mk
