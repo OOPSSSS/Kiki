@@ -1,4 +1,4 @@
 # Kiki
 NX404H
 PRODUCT_MAKEFILES := \
-$(LOCAL_DIR)/full_NX404H.mk 
+$(LOCAL_DIR)/device_nx40x.mk
