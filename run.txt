@@ -1,0 +1,4 @@
+# Kiki
+NX404H
+ make -j5 PRODUCT-device_nx40x-user dist
+build/core/product_config.mk:242: *** device/nubia/NX404H/device_nx40x.mk: malformed COPY_FILE "vendor/nubia/NX404H/proprietary/lib/hw/audio.r_submix.default.so/vendor/lib/hw/audio.r_submix.default.so".  Останов.
