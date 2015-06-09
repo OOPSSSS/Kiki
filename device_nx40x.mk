@@ -14,7 +14,7 @@ $(LOCAL_PATH)/zImage:kernel
 PRODUCT_PACKAGES += \
 com.android.future.usb.accessory \
 libnetcmdiface \
-Stk
+Stk \
 static_busybox \
 make_ext4fs \
 setup_fs
