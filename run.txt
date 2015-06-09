@@ -1,0 +1,4 @@
+# Kiki
+NX404H
+ make -j5 PRODUCT-device_nx40x-user dist
+device/nubia/NX404H/device_nx40x.mk:16: *** пропущен разделитель.  Останов.
