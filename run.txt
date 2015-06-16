@@ -45,3 +45,7 @@ Note: Some input files use unchecked or unsafe operations.
 Note: Recompile with -Xlint:unchecked for details.
 /bin/bash: jar: команда не найдена
 make: *** [/home/yo/WORKING_DIRECTORY/cm-10.2/out/target/common/obj/JAVA_LIBRARIES/core_intermediates/classes-full-debug.jar] Ошибка 127
+
+
+
+
