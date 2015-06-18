@@ -1,13 +1,13 @@
 # Kiki
 NX404H
 NEW!!
-Notice file: external/doclava/NOTICE -- /home/yo/WORKING_DIRECTORY/cm-10.2/out/host/linux-x86/obj/NOTICE_FILES/src//framework/doclava.jar.txt
-logtags: /home/yo/WORKING_DIRECTORY/cm-10.2/out/target/common/obj/JAVA_LIBRARIES/telephony-common_intermediates/src/src/java/com/android/internal/telephony/EventLogTags.java <= frameworks/opt/telephony/src/java/com/android/internal/telephony/EventLogTags.logtags
-make: *** Нет правила для сборки цели `vendor/nubia/NX404H/proprietary/bin/monkey', требуемой для `/home/yo/WORKING_DIRECTORY/cm-10.2/out/target/product/NX404H/system/bin/monkey'.  Останов.
+Directory: /home/yo/WORKING_DIRECTORY/cm-10.2/out/target/product/NX404H/root/data
+make: *** Нет правила для сборки цели `device/nubia/NX404H/kernel', требуемой для `/home/yo/WORKING_DIRECTORY/cm-10.2/out/target/product/NX404H/kernel'.  Останов.
 make: *** Ожидание завершения заданий...
-Package gpl sources: /home/yo/WORKING_DIRECTORY/cm-10.2/out/host/common/obj/PACKAGING/gpl_source_intermediates/gpl_source.tgz
+Directory: /home/yo/WORKING_DIRECTORY/cm-10.2/out/target/product/NX404H/data
 Note: Some input files use unchecked or unsafe operations.
 Note: Recompile with -Xlint:unchecked for details.
+
 
 
 
