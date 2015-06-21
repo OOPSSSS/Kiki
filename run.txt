@@ -1,11 +1,46 @@
 # Kiki
 NX404H
-NEW!!
-Generating CSSPropertyNames.h <= CSSPropertyNames.in
-sh: 1: gperf: not found
-calling gperf failed: 32512 at ./makeprop.pl line 140.
-make: *** [/home/yo/WORKING_DIRECTORY/cm-10.2/out/target/product/NX404H/obj/STATIC_LIBRARIES/libwebcore_intermediates/Source/WebCore/css/CSSPropertyNames.h] Ошибка 25
-make: *** Удаляется файл `/home/yo/WORKING_DIRECTORY/cm-10.2/out/target/product/NX404H/obj/STATIC_LIBRARIES/libwebcore_intermediates/Source/WebCore/css/CSSPropertyNames.h'
+PLATFORM_VERSION_CODENAME=REL
+PLATFORM_VERSION=4.3.1
+CM_VERSION=
+TARGET_PRODUCT=device_nx40x
+TARGET_BUILD_VARIANT=user
+TARGET_BUILD_TYPE=release
+TARGET_BUILD_APPS=
+TARGET_ARCH=arm
+TARGET_ARCH_VARIANT=armv7-a-neon
+TARGET_CPU_VARIANT=cortex-a7
+HOST_ARCH=x86
+HOST_OS=linux
+HOST_OS_EXTRA=Linux-3.16.0-41-generic-x86_64-with-Ubuntu-14.04-trusty
+HOST_BUILD_TYPE=release
+BUILD_ID=JLS36I
+OUT_DIR=/home/yo/WORKING_DIRECTORY/cm-10.2/out
+============================================
+build/core/copy_headers.mk:15: предупреждение: переопределение команд для цели `/home/yo/WORKING_DIRECTORY/cm-10.2/out/target/product/NX404H/obj/include/qcom/display/copybit.h'
+build/core/copy_headers.mk:15: предупреждение: старые команды для цели `/home/yo/WORKING_DIRECTORY/cm-10.2/out/target/product/NX404H/obj/include/qcom/display/copybit.h' игнорируются
+build/core/copy_headers.mk:15: предупреждение: переопределение команд для цели `/home/yo/WORKING_DIRECTORY/cm-10.2/out/target/product/NX404H/obj/include/qcom/display/copybit_priv.h'
+build/core/copy_headers.mk:15: предупреждение: старые команды для цели `/home/yo/WORKING_DIRECTORY/cm-10.2/out/target/product/NX404H/obj/include/qcom/display/copybit_priv.h' игнорируются
+grep: /device/nubia/NX404H/rootdir/fstab.qcom: Нет такого файла или каталога
+PRODUCT_COPY_FILES system/core/rootdir/init.usb.rc:root/init.usb.rc ignored.
+No private recovery resources for TARGET_DEVICE NX404H
+build/core/tasks/kernel.mk:59: ***************************************************************
+build/core/tasks/kernel.mk:60: * Using prebuilt kernel binary instead of source              *
+build/core/tasks/kernel.mk:61: * THIS IS DEPRECATED, AND WILL BE DISCONTINUED                *
+build/core/tasks/kernel.mk:62: * Please configure your device to download the kernel         *
+build/core/tasks/kernel.mk:63: * source repository to kernel/nubia/NX404H
+build/core/tasks/kernel.mk:64: * See http://wiki.cyanogenmod.org/w/Doc:_integrated_kernel_building
+build/core/tasks/kernel.mk:65: * for more information                                        *
+build/core/tasks/kernel.mk:66: ***************************************************************
+Can't open kernel/nubia/NX404H/arch/arm/configs/: Нет такого файла или каталога at -e line 1.
+Can't open kernel/nubia/NX404H/arch/arm/configs/: Нет такого файла или каталога at -e line 1.
+host C++: aidl <= /home/yo/WORKING_DIRECTORY/cm-10.2/out/host/linux-x86/obj/EXECUTABLES/aidl_intermediates/aidl_language_l.cpp
+target Strip: libsqlite (/home/yo/WORKING_DIRECTORY/cm-10.2/out/target/product/NX404H/obj/lib/libsqlite.so)
+target Strip: libmedia (/home/yo/WORKING_DIRECTORY/cm-10.2/out/target/product/NX404H/obj/lib/libmedia.so)
+make: *** [/home/yo/WORKING_DIRECTORY/cm-10.2/out/target/product/NX404H/obj/lib/libsqlite.so] Ошибка 1
 make: *** Ожидание завершения заданий...
+make: *** [/home/yo/WORKING_DIRECTORY/cm-10.2/out/target/product/NX404H/obj/lib/libmedia.so] Ошибка 1
+make: *** wait: Нет дочерних процессов.  Останов.
+
 
 
